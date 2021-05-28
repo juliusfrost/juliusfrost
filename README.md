@@ -9,12 +9,6 @@
   <a href="https://scholar.google.com/citations?user=3t13-nQAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=Google-Scholar&logoColor=white" height=25></a>
 </p>
 
-### About me
-
-I'm graduating May 2021 with a Computer Science Bachelors and Masters at Boston University.  
-I do research in Deep Learning and Reinforcement Learning and I'm really interested in the impact of AI on society.  
-I would love to work full time at a company tackling hard problems with AI!
-
 ### Publications
 [Plummer, Bryan A., Nikoli Dryden, Julius Frost, Torsten Hoefler, and Kate Saenko. "Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning." In submission CVPR 2021.](https://arxiv.org/abs/2006.10598)
 
